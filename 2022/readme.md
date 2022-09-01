@@ -86,6 +86,15 @@
 
 - [2022 08 31 프로그래머스_탐욕법_체육복.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level1/2022%2008%2031%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%ED%83%90%EC%9A%95%EB%B2%95_%EC%B2%B4%EC%9C%A1%EB%B3%B5.md)
 
+- [2022 09 01 프로그래머스_2018 kakao_[1차] 다트게임.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level1/2022%2009%2001%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_2018%20kakao_%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84.md)
+
+- [2022 09 01 프로그래머스_2018 kakao_[1차] 비밀지도.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level1/2022%2009%2001%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_2018%20kakao_%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.md)
+
+- [2022 09 01 프로그래머스_2019 kakao_실패율.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level1/2022%2009%2001%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_2019%20kakao_%EC%8B%A4%ED%8C%A8%EC%9C%A8.md)
+
+- [2022 09 01 프로그래머스_2021 카카오_숫자 문자열과 영단.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level1/2022%2009%2001%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_2021%20%EC%B9%B4%EC%B9%B4%EC%98%A4_%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8.md)
+
+- [2022 09 01 프로그래머스_월간코드 _3진법 뒤집기.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level1/2022%2009%2001%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%9B%94%EA%B0%84%EC%BD%94%EB%93%9C%20_3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.md)
 
 ### level 2
 
