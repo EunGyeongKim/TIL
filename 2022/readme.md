@@ -105,3 +105,7 @@
 - [2022 09 04 프로그래머스_연습문제_행렬의 곱셈.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022%2009%2004%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.md)
 
 - [2022 09 05 프로그래머스_월간코드_삼각달팽이.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022%2009%2005%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%9B%94%EA%B0%84%EC%BD%94%EB%93%9C_%EC%82%BC%EA%B0%81%EB%8B%AC%ED%8C%BD%EC%9D%B4.md)
+
+- [2022 09 06 프로그래머스_연습문제_N개의 최소공배수.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022%2009%2006%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
+
+- [2022 09 06 프로그래머스_2017 팁스타운_짝지어 제거하기.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022%2009%2006%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_2017%20%ED%8C%81%EC%8A%A4%ED%83%80%EC%9A%B4_%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)
