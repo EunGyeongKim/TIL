@@ -109,3 +109,10 @@
 - [2022 09 06 프로그래머스_연습문제_N개의 최소공배수.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022%2009%2006%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
 
 - [2022 09 06 프로그래머스_2017 팁스타운_짝지어 제거하기.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022%2009%2006%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_2017%20%ED%8C%81%EC%8A%A4%ED%83%80%EC%9A%B4_%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)
+
+- [2022 09 07 프로그래머스_연습문제_JadenCase 문자열 만들기.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022%2009%2007%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+
+- [2022 09 07 프로그래머스_연습문제_최댓값과 최솟값.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022%2009%2007%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.md)
+
+- [2022 09 07 프로그래머스_연습문제_최솟값 만들기.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022%2009%2007%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+- [2022 09 07 프로그래머스_연습문제_피보나치 수.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022%2009%2007%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.md)
