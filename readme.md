@@ -140,3 +140,13 @@
 * [2022 09 11 프로그래머스_정렬_H-Index.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022 09 11 프로그래머스_정렬_H-Index.md)
 
 * [2022 09 11 프로그래머스_탐욕법_구명보트.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022 09 11 프로그래머스_탐욕법_구명보트.md)
+
+* [2022 09 12 프로그래머스_월간코드_n^2 배열 자르기.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022 09 12 프로그래머스_월간코드_n^2 배열 자르기.md)
+
+* [2022 09 14 프로그래머스_2019카카오_튜플.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022 09 14 프로그래머스_2019카카오_튜플.md)
+
+* [2022 09 14 프로그래머스_2022 kakao_k진수에서 소수 개수 구하기.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022 09 14 프로그래머스_2022 kakao_k진수에서 소수 개수 구하기.md)
+
+* [2022 09 15 프로그래머스_스택 큐_기능개발.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022 09 15 프로그래머스_스택 큐_기능개발.md)
+
+* [2022 09 15 프로그래머스_해시_위장.md](https://github.com/EunGyeongKim/TIL/blob/main/2022/programmers/level2/2022 09 15 프로그래머스_해시_위장.md)
